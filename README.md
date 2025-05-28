@@ -12,8 +12,8 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 <br />
 <br />
 <br />
-<details>
 
+<div align="center"  style="margin-left: 10px;">
 #### Utilizo
 ![Visual Studio Code](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)  
 
@@ -28,7 +28,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 ![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
 ![MarkDown](https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg)
 
-
+</div>
 
 
 
