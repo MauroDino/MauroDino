@@ -4,7 +4,14 @@ Apasionado por el ciclismo y el armado de rompecabezas.
 Comencé mi relación con la programación en un curso de Diseño de UX/UI dictado por la academia Codo a Codo.  
 Luego ingresé a la Facultad de Informática donde todavía permanezco.  
 Me interioricé en HTML, CSS y brevemente con JavaScript. Gracias a ello, hice mi primera [Landing Page](https://maurodino.github.io/landing-PR/) para un emprendimiento propio, llamado Pan Real.  
-[web]: https://maurodino.github.io/landing-PR/
+
+Lo que vas a encontrar, en gran parte, en mi cuenta de Github es mi forma de resolver los ejercicios que fui resolviendo para sumergirme en este nuevo mundo.
+
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=MauroDino&show_icons=true)
+<br />
+<br />
+<br />
+<details>
 
 ### Si querés saber más de mi
 ### Pongámonos en contacto
