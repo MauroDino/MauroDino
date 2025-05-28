@@ -3,7 +3,7 @@ Soy Mauro, actualmente estudio Analista Programador Universitario, en la Univers
 Apasionado por el ciclismo y el armado de rompecabezas.
 Comencé mi relación con la programación en un curso de Diseño de UX/UI dictado por la academia Codo a Codo.
 Luego ingresé a la Facultad de Informática donde todavía permanezco.
-Me interioricé en HTML, CSS y brevemente con JavaScript. Gracias a ello, hice mi primera [**Landing Page**][página web] para un emprendimiento propio:
+Me interioricé en HTML, CSS y brevemente con JavaScript. Gracias a ello, hice mi primera [**Landing Page**][página web] para un emprendimiento propio:  
 [página web]: https://maurodino.github.io/landing-PR/
 
 ### Si querés saber más de mi
