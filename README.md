@@ -17,7 +17,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
 <p align="center">
  <div align="center" style="margin-left: 10px;">
-     <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"></a>
+     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
      <img src="https://badges.aleen42.com/src/photoshop.svg"></a>
      <img src="	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
  </div>
