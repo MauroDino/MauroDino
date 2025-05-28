@@ -42,8 +42,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 <br />
 <br />
 
-### Si querés saber más de mi
-### Pongámonos en contacto
+### Si querés saber más de mi, pongámonos en contacto
 <p>
  <div class="icons-social" style="margin-left: 10px;">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
