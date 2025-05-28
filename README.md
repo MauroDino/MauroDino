@@ -8,6 +8,8 @@ Me interioricé en HTML, CSS y brevemente con JavaScript. Gracias a ello, hice m
 Lo que vas a encontrar en gran parte, en mi cuenta de Github, es la forma en que resolví los ejercicios que da la cátedra de la materia troncal: Conceptos de Algoritmos y de Programación.  
 Además, voy agregando los diagramas de flujo donde planteo la lógica de los mismos.
 
+<br />
+<br />
 ![Mauro's github stats](https://github-readme-stats.vercel.app/api?username=MauroDino&show_icons=true)
 <br />
 <br />
@@ -15,7 +17,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
 #### Utilizo
 
-<p align="center">
+<p>
  <div align="center" style="margin-left: 10px;">
      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
      <img src="https://badges.aleen42.com/src/photoshop.svg"></a>
@@ -25,7 +27,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
 #### Para desempeñarme en
 
-<p align="center">
+<p>
  <div align="center" style="margin-left: 10px;">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
