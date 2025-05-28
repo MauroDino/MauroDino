@@ -5,13 +5,32 @@ Comencé mi relación con la programación en un curso de Diseño de UX/UI dicta
 Luego ingresé a la Facultad de Informática donde todavía permanezco.  
 Me interioricé en HTML, CSS y brevemente con JavaScript. Gracias a ello, hice mi primera [Landing Page](https://maurodino.github.io/landing-PR/) para un emprendimiento propio, llamado Pan Real.  
 
-Lo que vas a encontrar, en gran parte, en mi cuenta de Github es mi forma de resolver los ejercicios que fui resolviendo para sumergirme en este nuevo mundo.
+Lo que vas a encontrar, en gran parte, en mi cuenta de Github es mi forma de resolver los ejercicios que fui resolviendo para sumergirme en este nuevo mundo.  
+Además, voy agregando los diagramas de flujo donde planteo la lógica de los mismos.
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=MauroDino&show_icons=true)
+![Mauro's github stats](https://github-readme-stats.vercel.app/api?username=MauroDino&show_icons=true)
 <br />
 <br />
 <br />
 <details>
+
+#### Utilizo
+![Visual Studio Code](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)  
+
+![Figma](https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg)
+![PhotoShop](https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg)
+
+
+#### Para desempeñarme en
+![HTML](https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg)
+![CSS](https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg)
+![JavaScript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
+![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
+![MarkDown](https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg)
+
+
+
+
 
 ### Si querés saber más de mi
 ### Pongámonos en contacto
