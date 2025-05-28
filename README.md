@@ -15,25 +15,26 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
 #### Utilizo
 
-<div align="center"  style="margin-left: 10px;">
-
-![Visual Studio Code](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)  
-
-![Figma](https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg)
-![PhotoShop](https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg)
-
+<p align="center">
+ <div align="center" style="margin-left: 10px;">
+     <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"></a>
+     <img src="https://badges.aleen42.com/src/photoshop.svg"></a>
+     <img src="	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+ </div>
+</p>
 
 #### Para desempeñarme en
-![HTML](https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg)
-![CSS](https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg)
-![JavaScript](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
-![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
-![MarkDown](https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg)
 
-</div>
-
-
-
+<p align="center">
+ <div align="center" style="margin-left: 10px;">
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+ </div>
+</p>
+  
 ### Si querés saber más de mi
 ### Pongámonos en contacto
 <p align="center">
@@ -46,3 +47,5 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 	<a style="margin-left: 10px;" target="_blank" href="https://github.com/MauroDino">
  </div>
 </p>
+
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></a>
