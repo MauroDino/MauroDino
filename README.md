@@ -10,6 +10,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
 <br />
 <br />
+
 ![Mauro's github stats](https://github-readme-stats.vercel.app/api?username=MauroDino&show_icons=true)
 <br />
 <br />
