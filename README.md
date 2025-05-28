@@ -13,8 +13,10 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 <br />
 <br />
 
-<div align="center"  style="margin-left: 10px;">
 #### Utilizo
+
+<div align="center"  style="margin-left: 10px;">
+
 ![Visual Studio Code](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)  
 
 ![Figma](https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg)
