@@ -46,7 +46,7 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
  <div class="icons-social" style="margin-left: 10px;">
 	<a href="mailto:dinotomauro@gmail.com">
-  		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="40" height="40"
+  		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"
        		alt="Enviar correo" width="200">
 	</a>
   	<a href="https://www.linkedin.com/in/mauro-di-noto/">
