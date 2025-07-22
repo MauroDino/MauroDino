@@ -46,15 +46,15 @@ Además, voy agregando los diagramas de flujo donde planteo la lógica de los mi
 
  <div class="icons-social" style="margin-left: 10px;">
 	<a href="mailto:dinotomauro@gmail.com">
-  		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+  		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="40" height="40"
        		alt="Enviar correo" width="200">
 	</a>
   	<a href="https://www.linkedin.com/in/mauro-di-noto/">
-  		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" 
+  		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="40" height="40"
        		alt="Ir a Linkedin">
 	</a>
 	 <a href="https://github.com/MauroDino">
-  		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" 
+  		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" width="40" height="40"
        		alt="Link al inicio de Github">
 	</a>
      
